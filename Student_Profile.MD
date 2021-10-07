@@ -12,11 +12,11 @@ Cohort 2
 
   Which financial services or products would you like to work with? 
 
-      Digital ledger and blockchain
+      Digital ledger and Blockchain
 
   Which technologies do you want to contrbute to?
 
-      Data mining
+      Data Mining and Data Analyst
 
   Which problems or oppertunities do you want to focus on?
 
