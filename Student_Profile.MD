@@ -1,7 +1,7 @@
  
 October,7th,2021
 Khalid Alomari  
-Cohort 2 
+Cohort  2 
 
 
 ## Student Career Goal Statement 
